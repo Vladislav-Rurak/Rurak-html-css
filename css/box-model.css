@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+  }
+  
+  .first-block {
+    display: inline-block;
+    border: red 5px solid;
+    width: 50%;
+    height: 150px;
+    box-sizing: border-box;
+  }
+  
+  .second-block {
+    border: green 5px solid;
+    width: 50%;
+    height: 50%;
+    box-sizing: border-box;
+
+  }
+  
+  .center {
+    border: 2px solid blue;
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    background: yellowgreen;
+    box-sizing: border-box;
+  }

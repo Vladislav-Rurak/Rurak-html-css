@@ -1,0 +1,20 @@
+h1 {
+    color: royalblue;
+  }
+
+  p {
+    color: blanchedalmond;
+    font-size: 30px;
+    text-align: left;
+    text-indent: 1em;
+    border: 5px solid lavenderblush;
+  }
+  
+  a {
+    text-decoration: overline dashed grey 5px;
+  }
+  
+  button {
+    text-transform: uppercase;
+  }
+  
